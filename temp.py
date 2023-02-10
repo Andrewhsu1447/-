@@ -5,6 +5,8 @@ Spyder Editor
 This is a temporary script file.
 """
 
-1+6
-a=20
-a*2
+import random
+
+numbers = range(1, 41)
+random_numbers = random.sample(numbers, 5)
+print(random_numbers)
