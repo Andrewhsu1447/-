@@ -5,8 +5,8 @@ Spyder Editor
 This is a temporary script file.
 """
 
-import random
-
-numbers = range(1, 41)
-random_numbers = random.sample(numbers, 5)
-print(random_numbers)
+x=10;y=20;z=30;
+sum = x+\
+      y+\
+      z    
+print(sum)      
